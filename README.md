@@ -1,3 +1,7 @@
+Prj1: prj1 Search/index.html
+Prj2: https://katycs50wwiki.vercel.app/
+
+
 # CS50's Web Programming with Python and JavaScript
 
 Welcome to CS50's Web Programming with Python and JavaScript! 🚀
