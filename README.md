@@ -1,6 +1,5 @@
-Prj1: prj1 Search/index.html
-
-Prj2: https://katycs50wwiki.vercel.app/
+Prj1: https://www.youtube.com/watch?v=RXqQPh-I6ZE
+Prj2: https://www.youtube.com/watch?v=xfeVU-O_GWM
 
 
 
